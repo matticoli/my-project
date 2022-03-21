@@ -1,6 +1,6 @@
 # my-project
 
-This is my project
+This is your project
 
 Yee
 
